@@ -36,6 +36,17 @@ function isValidSubsequence(array, sequence) {
   }
 }
 
+function isValidSubsequence2(array, sequence) {
+  var c = -1;
+  for(let key of sequence){
+    if((array.indexOf(key) !== -1) && (array.indexOf(key) > c)){
+      c = array.indexOf(key);	array[array.indexOf(key)] = '-';
+    }
+    else	return false;
+  }
+  return true;
+}
+
 
 /*
  * Sample Input

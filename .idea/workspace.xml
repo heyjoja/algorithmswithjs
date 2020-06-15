@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a0454b-039e-4dfe-8135-3e4f0112ba2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.validatesubsequence.js" afterDir="false" />
+    <list default="true" id="93a0454b-039e-4dfe-8135-3e4f0112ba2f" name="Default Changelist" comment="Validate suubsequence - check my solutions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twonumbersum.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.twonumbersum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.validatesubsequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.validatesubsequence.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <updated>1592193604392</updated>
       <workItem from="1592193605783" duration="1649000" />
       <workItem from="1592217133004" duration="2000" />
-      <workItem from="1592245823897" duration="12000" />
+      <workItem from="1592245823897" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="Two numbers sum">
       <created>1592193827274</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592193902944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Validate suubsequence - check my solutions">
+      <created>1592246023192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592246023192</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,13 +103,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Two numbers sum" />
     <MESSAGE value="Two numbers sum - check my solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two numbers sum - check my solutions" />
+    <MESSAGE value="Validate suubsequence - check my solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validate suubsequence - check my solutions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1592193904936">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1592246026846">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-703.1920.1057@0.23.1440.877" timestamp="1592193904936" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-703.1920.1057@0.23.1440.877" timestamp="1592246026846" />
     <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592217000667">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
