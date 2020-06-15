@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a0454b-039e-4dfe-8135-3e4f0112ba2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/twonumbersum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.validatesubsequence.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twonumbersum.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.twonumbersum.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
@@ -50,8 +58,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592193604392</updated>
-      <workItem from="1592193605783" duration="180000" />
+      <workItem from="1592193605783" duration="1649000" />
+      <workItem from="1592217133004" duration="2000" />
+      <workItem from="1592245823897" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="Two numbers sum">
+      <created>1592193827274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592193827274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Two numbers sum - check my solutions">
+      <created>1592193902944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592193902944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +92,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Two numbers sum" />
+    <MESSAGE value="Two numbers sum - check my solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two numbers sum - check my solutions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1592193904936">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-703.1920.1057@0.23.1440.877" timestamp="1592193904936" />
+    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592217000667">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.-726.1920.1080@0.0.1440.900" timestamp="1592217000667" />
   </component>
 </project>
